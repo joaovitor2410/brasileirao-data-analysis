@@ -21,6 +21,8 @@ Ao validar a regra `pontos = vitórias×3 + empates`, 11 linhas do dataset quebr
 
 *(tabela completa com as compensações de pontos no notebook)*
 
+**Outra checagem de qualidade de dados**: o Mirassol aparece no cadastro de clubes (`teams.csv`), mas nunca nas classificações (`brasileirao.csv`) — não é inconsistência, o clube só foi promovido à Série A em 2025, fora do recorte temporal (2003–2024) deste projeto.
+
 ## 📊 Outros insights
 
 - **Ranking histórico de títulos**: Corinthians e Palmeiras lideram com 4 títulos cada no período, seguidos por Cruzeiro, Flamengo e São Paulo com 3.
