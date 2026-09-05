@@ -48,7 +48,7 @@ Ao validar a regra `pontos = vitórias×3 + empates`, 11 linhas do dataset quebr
 ## 📌 Fonte dos dados
 
 Dataset original: [Brasileirão Série A 2006-2022](https://www.kaggle.com/datasets/lucasyukioimafuko/brasileirao-serie-a-2006-2022), por Lucas Yukio Imafuko, no Kaggle.
-Versão espelhada para reprodutibilidade deste projeto: `<link do seu dataset no Kaggle aqui>`
+Versão espelhada para reprodutibilidade deste projeto: `https://www.kaggle.com/code/jayfishh/notebookbrasileirao`
 
 ## ▶️ Como rodar
 
